@@ -1,6 +1,6 @@
 {
   "name": "jellyfish-brain",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a simple machine learning  library for simple tasks, can be modified pretty easily to complete more advanced tasks.",
   "main": "brain.js",
   "scripts": {
