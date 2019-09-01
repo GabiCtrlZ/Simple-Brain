@@ -1,0 +1,19 @@
+{
+  "name": "jellyfish-brain",
+  "version": "1.0.0",
+  "description": "a simple machine learning  library for simple tasks, can be modified pretty easily to complete more advanced tasks.",
+  "main": "brain.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabiCtrlZ/Simple-Brain.git"
+  },
+  "author": "GabiCtrlZ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabiCtrlZ/Simple-Brain/issues"
+  },
+  "homepage": "https://github.com/GabiCtrlZ/Simple-Brain#readme"
+}

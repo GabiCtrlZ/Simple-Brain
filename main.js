@@ -1,3 +1,5 @@
+//example for usage
+
 const Brain = require('./brain')
 const data = require('./data')
 
